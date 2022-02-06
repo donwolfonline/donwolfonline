@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Walid Al Yamani @donwolfonline
+- 👋 Hi, I’m Frederick D. Dineen @donwolfonline
 - 👀 I’m interested in coding and programming, AI and many more geeky greeky stuff.
 - 🌱 I’m currently learning GO language and other programming languages.
 - 💞️ I’m looking to collaborate on projects and new techs.
