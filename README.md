@@ -9,4 +9,4 @@ donwolfonline/donwolfonline is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/donwolfonline"><img src="https://api.daily.dev/devcards/21bed44163a14920857bf4822b882887.png?r=0rp" width="400" alt="Frederick Dineen's Dev Card"/></a>
