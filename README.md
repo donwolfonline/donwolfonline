@@ -1,5 +1,5 @@
 
-![Frederick Dineen's GitHub stats](https://github-readme-stats.vercel.app/api?username=donwolfonline&theme=github_dark)
+![Frederick Dineen's GitHub stats](https://github-readme-stats.vercel.app/api?username=donwolfonline&theme=github_purple_dark)
 
 
 - 👋 Hi, I’m **Frederick D. Dineen**
