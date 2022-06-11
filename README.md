@@ -1,3 +1,7 @@
+
+![Frederick Dineen's GitHub stats](https://github-readme-stats.vercel.app/api?username=donwolfonline&theme=github_dark)
+
+
 - 👋 Hi, I’m Frederick D. Dineen @donwolfonline
 - 👀 I’m interested in coding and programming, AI and many more geeky greeky stuff.
 - 🌱 I’m currently learning GO language and other programming languages.
