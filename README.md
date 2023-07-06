@@ -16,9 +16,6 @@ Feel free to check out everything I do  if you find any error or have a suggesti
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donwolfonline&hide=TeX&layout=compact)
 
 
-
-![Frederick Dineen's GitHub stats](https://github-readme-stats.vercel.app/api?username=donwolfonline&theme=github_dark)
-
 <!---
 donwolfonline/donwolfonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
