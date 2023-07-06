@@ -13,7 +13,7 @@
 
 **Welcome to my github page**. I run a youtube chanel focused on coding called [Frederick Dineen](https://www.youtube.com/@donwolfonline) and in this github you'll find every single piece of source code written in every coding video.
 
--  **Mobile Dev** is my passion 🔥
+-  **Mobile & Web App Dev** is my passion 🔥
 -  Currently focused on **React Native** 📱
 -  Love to clone big apps 🖥️
 
