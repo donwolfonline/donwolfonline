@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/donwolfonline/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/donwolfonline)
 
-**Welcome to my github page**. I run a youtube chanel focused on coding called [Frederick Dineen](https://www.youtube.com/c/donwolfonline?sub_confirmation=1) and in this github you'll find every single piece of source code written in every coding video.
+**Welcome to my github page**. I run a youtube chanel focused on coding called [Frederick Dineen](https://www.youtube.com/@donwolfonline) and in this github you'll find every single piece of source code written in every coding video.
 
 -  **Mobile Dev** is my passion 🔥
 -  Currently focused on **React Native** 📱
