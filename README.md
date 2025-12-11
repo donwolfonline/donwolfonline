@@ -1,4 +1,4 @@
-## Hi there, I'm Dmitrii (he/him) 👋
+## Hi there, I'm Frederick Dineen  (he/him) 👋
 
 <p align="center">
   <a href="https://frederickdineen.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
