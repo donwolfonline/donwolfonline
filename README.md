@@ -4,9 +4,7 @@
   </a>
 </div>
 
-
 <br />
-
 
 ## 🌐 Social Networks:
 <div align="center">
@@ -17,26 +15,21 @@
   <a href="mailto:hi@frederickdineen.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
 </div>
 
+# 🎃 Featured Project: Pumpkin
+I am currently building **[Pumpkin](https://github.com/donwolfonline/pumpkin./)** — a programming language designed for humans, not robots. It's an open-source (GPL v3) initiative to make coding intuitive, powered by a high-performance Rust bytecode engine and WebAssembly.
+
+- ✨ **Read the vision:** [Code for Humans](https://pumpkinpatch.vercel.app/)
+- 🚀 **Try the Playground:** [Run Pumpkin in your browser](https://pumpkinpatch.vercel.app/playground)
+- 🛠️ **Contributor Friendly:** Join us in building v0.2.0!
+- 🫆 **Join our community:** [Connect with other Pumpkin users](https://pumpkinpatch.vercel.app/community)
+
+---
+
 # 💻 Tech Stacks:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-
-
-
-
-
+![Rust](https://img.shields.io/badge/rust-%23E32C2D.svg?style=for-the-badge&logo=rust&logoColor=white) ![WebAssembly](https://img.shields.io/badge/webassembly-%23624DE8.svg?style=for-the-badge&logo=webassembly&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 **Welcome to my github page**. I run a youtube chanel focused on coding called [Frederick Dineen](https://www.youtube.com/@donwolfonline) and in this github you'll find every single piece of source code written in every coding video.
 
--  **Mobile & Web App Dev** is my passion 🔥
--  Currently focused on **React Native** 📱
--  Love to clone big apps 🖥️
-
-
-
-<!---
-donwolfonline/donwolfonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- 📱 **Mobile & Web App Dev** is my passion 🔥
+- ⚛️ Currently focused on **React Native** and **Systems Design**
+- 🎃 Building the future of accessible programming with **Pumpkin**
