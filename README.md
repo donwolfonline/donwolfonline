@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/@donwolfonline">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Frederick+Dineen;Software+Engineering+Leader;Ex-Google+Senior+Engineer;Ex-DeepMind+Research+Scientist;Creator+of+%22Frederick+Dineen%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Frederick+Dineen;Building+Pumpkin🎃;Software+Engineering+Leader;Ex-Google+Senior+Engineer;Ex-DeepMind+Research+Scientist;Creator+of+%22Frederick+Dineen%22" alt="Typing SVG" />
   </a>
 </div>
 
