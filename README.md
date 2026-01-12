@@ -15,8 +15,8 @@
   <a href="mailto:hi@frederickdineen.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
 </div>
 
-# 🎃 Featured Project: Pumpkin
-I am currently building **[Pumpkin](https://github.com/donwolfonline/pumpkin./)** — a programming language designed for humans, not robots. It's an open-source (GPL v3) initiative to make coding intuitive, powered by a high-performance Rust bytecode engine and WebAssembly.
+# 🎃 Featured Project: **[Pumpkin.](https://github.com/donwolfonline/pumpkin./)**
+I am currently building **[Pumpkin.](https://github.com/donwolfonline/pumpkin./)** — a programming language designed for humans, not robots. It's an open-source (GPL v3) initiative to make coding intuitive, powered by a high-performance Rust bytecode engine and WebAssembly.
 
 - ✨ **Read the vision:** [Code for Humans](https://pumpkinpatch.vercel.app/)
 - 🚀 **Try the Playground:** [Run Pumpkin in your browser](https://pumpkinpatch.vercel.app/playground)
