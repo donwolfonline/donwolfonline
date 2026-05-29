@@ -34,7 +34,7 @@ I am currently building **[Pumpkin.](https://github.com/donwolfonline/pumpkin./)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/webassembly-%23624DE8.svg?style=for-the-badge&logo=webassembly&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/webassembly-%23624DE8.svg?style=for-the-badge&logo=webassembly&logoColor=blue)
 
 ### **Cloud Native, DevOps & Infrastructure**
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
